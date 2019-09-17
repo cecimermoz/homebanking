@@ -12,7 +12,7 @@ var codigo = "1234";
 
 //Ejecución de las funciones que actualizan los valores de las variables en el HTML.
 window.onload = function() {
-    iniciarSesion();
+   // iniciarSesion();
     cargarNombreEnPantalla();
     actualizarSaldoEnPantalla();
     actualizarLimiteEnPantalla();
